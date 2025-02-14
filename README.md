@@ -36,7 +36,7 @@
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafemelo&theme=midnight-purple&hide_border=false" width="48%" padding-right:100px />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="200"  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1vcHIydnhqdWtidzVzdWx4c3VsaDd3cG5rejdnMjgwbWNrc3hxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bLVTnQvgggksbDXs7S/giphy.gif"  />
 </div>
 
