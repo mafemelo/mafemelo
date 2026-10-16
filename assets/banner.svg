@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-label="Portfólio de Maria Fernanda Melo e Reis">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#d9d8df"/></pattern>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#241e32" flood-opacity=".16"/></filter>
+  </defs>
+  <rect width="880" height="340" rx="18" fill="#f6f6f3"/>
+  <rect width="880" height="340" rx="18" fill="url(#dots)"/>
+  <rect x=".5" y=".5" width="879" height="339" rx="17.5" fill="none" stroke="#dddce3"/>
+
+  <text x="440" y="196" text-anchor="middle" font-size="86" font-weight="800" letter-spacing="-3" fill="#24222b" fill-opacity=".07" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">[MAFÊ MELO]</text>
+
+  <!-- pastas -->
+  <g filter="url(#sh)">
+  <g transform="translate(86,56)">
+    <rect x="34" y="0" width="34" height="12" rx="4" fill="#866ec5"/>
+    <rect x="0" y="8" width="84" height="56" rx="6" fill="#cdc2f4"/>
+    <rect x="-8" y="76" width="85" height="22" rx="6" fill="#fbfbf9"/>
+    <text x="34.5" y="91" text-anchor="middle" font-size="12.5" font-weight="500" fill="#24222b" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">sobre mim</text>
+  </g>
+  <g transform="translate(86,196)">
+    <rect x="34" y="0" width="34" height="12" rx="4" fill="#c15e50"/>
+    <rect x="0" y="8" width="84" height="56" rx="6" fill="#f5bab0"/>
+    <rect x="-8" y="76" width="78" height="22" rx="6" fill="#fbfbf9"/>
+    <text x="31.0" y="91" text-anchor="middle" font-size="12.5" font-weight="500" fill="#24222b" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">projetos</text>
+  </g>
+  <g transform="translate(714,56)">
+    <rect x="34" y="0" width="34" height="12" rx="4" fill="#009891"/>
+    <rect x="0" y="8" width="84" height="56" rx="6" fill="#94dad5"/>
+    <rect x="-8" y="76" width="106" height="22" rx="6" fill="#fbfbf9"/>
+    <text x="45.0" y="91" text-anchor="middle" font-size="12.5" font-weight="500" fill="#24222b" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">experiências</text>
+  </g>
+  <g transform="translate(714,196)">
+    <rect x="34" y="0" width="34" height="12" rx="4" fill="#a87600"/>
+    <rect x="0" y="8" width="84" height="56" rx="6" fill="#e3c697"/>
+    <rect x="-8" y="76" width="71" height="22" rx="6" fill="#fbfbf9"/>
+    <text x="27.5" y="91" text-anchor="middle" font-size="12.5" font-weight="500" fill="#24222b" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">contato</text>
+  </g></g>
+
+  <!-- câmera -->
+  <g transform="translate(394,22)" filter="url(#sh)">
+    <rect x="14" y="2" width="22" height="9" rx="3" fill="#fff" stroke="#dddce3"/>
+    <rect x="1" y="9" width="90" height="55" rx="10" fill="#fff" stroke="#dddce3"/>
+    <clipPath id="cc"><rect x="1" y="9" width="90" height="55" rx="10"/></clipPath>
+    <g clip-path="url(#cc)"><rect x="1" y="17" width="22.5" height="7" fill="#866ec5"/><rect x="23.5" y="17" width="22.5" height="7" fill="#c15e50"/><rect x="46" y="17" width="22.5" height="7" fill="#009891"/><rect x="68.5" y="17" width="22.5" height="7" fill="#a87600"/></g>
+    <circle cx="46" cy="42" r="15" fill="#fff" stroke="#dddce3"/><circle cx="46" cy="42" r="11.5" fill="#24222b"/><circle cx="46" cy="42" r="5.5" fill="#3a2a66"/><circle cx="42" cy="38" r="1.8" fill="#fff" opacity=".7"/>
+    <rect x="68" y="30" width="13" height="7" rx="2" fill="#ecebf0"/><rect x="26" y="59" width="40" height="2.5" rx="1.25" fill="#dddce3"/>
+  </g>
+  <rect x="418" y="100" width="44" height="22" rx="6" fill="#fbfbf9"/>
+  <text x="440" y="115" text-anchor="middle" font-size="12.5" font-weight="500" fill="#24222b" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">câmera</text>
+
+  <!-- polaroid com a foto -->
+  <g transform="translate(255,34) rotate(-6)" filter="url(#sh)">
+    <rect width="104" height="124" fill="#fff"/>
+    <image href="data:image/jpeg;base64,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" x="7" y="7" width="90" height="90" preserveAspectRatio="xMidYMid slice"/>
+    <text x="52" y="113" text-anchor="middle" font-size="11" font-weight="600" fill="#24222b" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">mafê, 18</text>
+    <rect x="30" y="-8" width="44" height="15" fill="#d9d8df" fill-opacity=".85"/>
+  </g>
+
+  <!-- post-it -->
+  <g transform="translate(350,212) rotate(-2)" filter="url(#sh)">
+    <rect width="190" height="100" fill="#f9ebbe"/>
+    <rect x="62" y="-8" width="66" height="18" fill="#d9d8df" fill-opacity=".85"/>
+    <text x="18" y="38" font-size="17" font-weight="700" fill="#4a3f2a" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">olá! eu sou a Mafê.</text>
+    <text x="18" y="62" font-size="13" fill="#4a3f2a" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">estudante de Engenharia</text>
+    <text x="18" y="80" font-size="13" fill="#4a3f2a" font-family="'Hanken Grotesk','Segoe UI',Helvetica,Arial,sans-serif">de Software · PUC Minas</text>
+  </g>
+</svg>
